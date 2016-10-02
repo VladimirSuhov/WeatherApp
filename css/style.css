@@ -1,0 +1,24 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+}
+
+header{
+	font-size: 72px;
+	color: silver;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 80px;
+
+}
+
+.clear{
+  padding:50px;
+}
+.btn{
+  font-weight:bold;
+  font-size:20px;
+  padding:20px;
+}
